@@ -1,5 +1,4 @@
 # RandomColourPicker
-
 Use React to create random color picker using RGB colors
 
 ## Deadline
@@ -11,15 +10,11 @@ Use React to create random color picker using RGB colors
 
 - https://www.codecademy.com/courses/react-101/projects/random-color
 
+## Technology Used
 
-### Built with
+- HTML
+- CSS
+- JavaScript (ReactJs)
 
-- JavaScript
-- React
-- Components Render other Components 
-- this.props
-- this.state
-
-## build by
-
-- Cornelius Chao
+## Source
+&copy; [Codecademy.com](https://codecademy.com) 2022.
